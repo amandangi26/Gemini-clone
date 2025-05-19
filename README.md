@@ -76,19 +76,15 @@ The following environment variables are required:
 
 - `VITE_GEMINI_API_KEY`: Your Google AI API key
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
 ## 👥 Authors
 
-- Your Name - Initial work
+- Aman kumar - Made with ❤️
+- 
 
 ## 🙏 Acknowledgments
 
 - Google Gemini AI for the inspiration
-- React and Vite communities for the amazing tools
